@@ -1,0 +1,18 @@
+.App {
+  padding: 30px;
+  display: flex;
+}
+
+.App > div {
+  margin-right: 50px;
+}
+.isDone{
+  opacity:0.5;
+  color: cadetblue;
+}
+.activeFilter{
+  background-color: gold;
+}
+.error{
+  border: 2px solid red;
+}
